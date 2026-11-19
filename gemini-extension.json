@@ -1,0 +1,11 @@
+{
+  "name": "social-media-studio",
+  "version": "1.0.0",
+  "description": "Schedule and publish posts on 18 social platforms, manage drafts, inbox, media and analytics with Social media studio.",
+  "mcpServers": {
+    "social-media-studio": {
+      "httpUrl": "https://api.so-me.studio/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
